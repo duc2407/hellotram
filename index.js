@@ -1,7 +1,7 @@
 const textConfig = {
     text1: "He luu Trâm!",
     text2: "Trâm ơi là trâm ơi.",
-    text3: "Trâm đang làm gì thế",
+    text3: "Trâm gấu à :)))",
     text4: "Mình ơi là mình ơi",
     text5: "Mình mơ à???",
     text6: "Yêu ơi là yêu <3",
@@ -35,7 +35,7 @@ const textConfig = {
       Swal.fire({
         title: textConfig.text1,
         text: textConfig.text2,
-        imageUrl: "img/tram1.jpg",
+        imageUrl: "img/tram5.jpg",
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("img/tram1.jpg")',
@@ -115,7 +115,7 @@ const textConfig = {
         width: 900,
         padding: "3em",
         html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
-        background: '#fff url("img/tram1.jpg")',
+        background: '#fff url("img/tram2.jpg")',
         backdrop: `
                       rgba(0,0,123,0.4)
                       url("img/giphy2.gif")
